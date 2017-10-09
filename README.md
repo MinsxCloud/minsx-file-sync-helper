@@ -43,6 +43,9 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的文件�
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/11.png "")
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/12.png "")
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/13.png "")
+
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/14.png "")
+
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/15.png "")
+
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/16.png "")
