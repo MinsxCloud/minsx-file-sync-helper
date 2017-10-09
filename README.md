@@ -29,9 +29,9 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的文件�
 					
 ### 软件截图
 
-![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/0.png "")
-![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/1.png "")
-![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/2.png "")
+![0](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/0.png "0")
+![1](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/1.png "")
+![2](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/2.png "")
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/3.png "")
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/4.png "")
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/5.png "")
@@ -42,10 +42,7 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的文件�
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/10.png "")
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/11.png "")
 ![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/12.png "")
-![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/13.png "")
-
-![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/14.png "")
-
-![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/15.png "")
-
-![](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/16.png "")
+![13](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/13.png "13")
+![14](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/14.png "14")
+![15](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/15.png "15")
+![16](https://raw.githubusercontent.com/goodsave/FileSyncHelper/master/screenshot/16.png "16")
