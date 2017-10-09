@@ -14,7 +14,7 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的文件�
 		  影响，容错性较高。
 - 缺点：某些情况下会占用教多的IO资源，比如当某一根目录名
 		  发生改变时，将会重新拷贝该目录下所有文件。
-- 版权申明：Apache License Version 2.0 
+- 开源协议：Apache License Version 2.0 
 				http://www.apache.org/licenses/
         
 ### 安装部署
