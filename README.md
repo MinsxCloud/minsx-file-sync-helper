@@ -1,7 +1,7 @@
 # FileSyncHelper
 FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的本地文件同步工具
 
-###软件说明
+### 软件说明
 - 软件名称：咪斯文件同步助手
 - 版本号：1.0.0
 - 开发者：www.minsx.com
@@ -17,7 +17,7 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的本地�
 - 版权申明：Apache License Version 2.0 
 				http://www.apache.org/licenses/
         
-###安装部署
+### 安装部署
 - 关于二次开发的说明：该软件开发平台为win10/Eclipse4.7.0
 					config目录下的一些配置文件路径在Eclipse下能较容易读取，如果您是IDEA开发
 					请验证您的user.dir是否对应到相应目录。一般情况下IDEA如果是Project引入则能正常
@@ -26,3 +26,6 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的本地�
 					
 - 软件打包说明：默认使用Eclipse导出可运行JAR包后即可运行。目前仅发布windows平台可运行程序，不需要
 					用户安装JAVA环境即可运行。软件包请致GITHUB项目主页获取。其他平台目前仅支持JAR命令运行。
+					
+### 软件截图
+
