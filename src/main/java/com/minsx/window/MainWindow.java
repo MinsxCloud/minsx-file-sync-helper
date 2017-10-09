@@ -64,7 +64,7 @@ public class MainWindow {
 		shell = new Shell(display, Constant.IS_DEBUG?SWT.NONE:SWT.NO_TRIM);
 		shell.setImage(SWTResourceManager.getImage(MainWindow.class, "/org/eclipse/wb/swt/logo.ico"));
 		shell.setSize(547, 402);
-		shell.setText("放疗云文件同步助手");
+		shell.setText("咪斯文件同步助手");
 		// shell.setLayout(null);
 		
 		// 生成主窗体背景

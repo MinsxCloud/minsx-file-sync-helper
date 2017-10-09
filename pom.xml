@@ -22,11 +22,11 @@
 			<version>4.12</version>
 		</dependency>
 		<!--swt 32bit for windows-->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.eclipse.swt.win32.win32</groupId>
 			<artifactId>x86</artifactId>
 			<version>3.3.0-v3346</version>
-		</dependency>
+		</dependency> -->
 		<!--swt 64bit for windows-->
 		<!-- <dependency>
 		    <groupId>org.eclipse.swt</groupId>
@@ -40,11 +40,11 @@
 		    <version>4.3</version>
 		</dependency> -->
 		<!-- linux 64bit for ubuntu-->
-		<!-- <dependency>
+		<dependency>
 		    <groupId>org.eclipse.swt</groupId>
 		    <artifactId>org.eclipse.swt.gtk.linux.x86_64</artifactId>
 		    <version>4.3</version>
-		</dependency> -->
+		</dependency>
 		<!-- linux 32bit for centos-->
 		<!-- <dependency>
 		    <groupId>org.eclipse.swt.gtk.linux</groupId>
