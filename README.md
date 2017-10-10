@@ -1,5 +1,5 @@
 # FileSyncHelper
-FileSyncHelper (咪斯文件同步助手) 是一款小巧的基于Java的文件同步工具
+FileSyncHelper (咪斯文件同步助手) 是一款小巧的跨平台较稳定的轻量级文件同步工具
 
 ### 软件说明
 - 软件名称：咪斯文件同步助手
