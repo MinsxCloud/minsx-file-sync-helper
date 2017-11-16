@@ -27,7 +27,7 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的跨平台较稳定�
 - 软件打包说明：默认使用Eclipse导出可运行JAR包后即可运行。目前仅发布windows平台可运行程序，不需要
 					用户安装JAVA环境即可运行。软件包请致GITHUB项目主页获取。其他平台目前仅支持JAR命令运行。
 					
-- 您可以[点击这里](https://github.com/goodsave/minsx-file-sync-helper/blob/master/runable-software/%E5%92%AA%E6%96%AF%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B-win32-64.zip)立即下载win/32bit可运行版本进行体验		
+- 您可以[点击这里](https://github.com/goodsave/minsx-file-sync-helper/raw/master/runable-software/%E5%92%AA%E6%96%AF%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B-win32-64.zip)立即下载win/32bit可运行版本进行体验		
 					
 					
 ### 软件截图
