@@ -29,27 +29,27 @@ FileSyncHelper (咪斯文件同步助手) 是一款小巧的跨平台较稳定�
 					
 - MAC打包运行请注意启动命令中应该加入以下参数:-XstartOnFirstThread
 					
-- 您可以[点击这里](https://github.com/MinsxFramework/minsx-file-sync-helper/raw/master/runable-software/%E5%92%AA%E6%96%AF%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B-win32-64.zip)立即下载win/32bit可运行版本进行体验	
+- 您可以[点击这里](https://github.com/MinsxCloud/minsx-file-sync-helper/raw/master/runable-software/%E5%92%AA%E6%96%AF%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B-win32-64.zip)立即下载win/32bit可运行版本进行体验	
 
 
 					
 					
 ### 软件截图
 
-![0](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/0.png "0")
-![1](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/1.png "1")
-![2](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/2.png "2")
-![3](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/3.png "3")
-![4](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/4.png "4")
-![5](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/5.png "5")
-![6](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/6.png "6")
-![7](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/7.png "7")
-![8](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/8.png "8")
-![9](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/9.png "9")
-![10](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/10.png "10")
-![11](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/11.png "11")
-![12](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/12.png "12")
-![13](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/13.png "13")
-![14](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/14.png "14")
-![15](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/15.png "15")
-![16](https://raw.githubusercontent.com/MinsxFramework/minsx-file-sync-helper/master/screenshot/16.png "16")
+![0](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/0.png "0")
+![1](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/1.png "1")
+![2](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/2.png "2")
+![3](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/3.png "3")
+![4](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/4.png "4")
+![5](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/5.png "5")
+![6](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/6.png "6")
+![7](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/7.png "7")
+![8](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/8.png "8")
+![9](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/9.png "9")
+![10](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/10.png "10")
+![11](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/11.png "11")
+![12](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/12.png "12")
+![13](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/13.png "13")
+![14](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/14.png "14")
+![15](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/15.png "15")
+![16](https://raw.githubusercontent.com/MinsxCloud/minsx-file-sync-helper/master/screenshot/16.png "16")
